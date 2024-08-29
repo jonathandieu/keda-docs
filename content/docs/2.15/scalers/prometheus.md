@@ -9,7 +9,7 @@ go_file = "prometheus_scaler"
 
 ### Trigger Specification
 
-This specification describes the `prometheus` trigger that scales based on a Prometheus.
+This specification describes the `prometheus` trigger that scales based on a Prometheus query.
 
 ```yaml
 triggers:
